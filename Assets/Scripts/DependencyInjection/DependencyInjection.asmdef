@@ -1,0 +1,20 @@
+{
+    "name": "DependencyInjection",
+    "rootNamespace": "UnityWithBackendWorkshop.DependencyInjection",
+    "references": [
+        "GUID:b165792ab4a813644961e1e55b9d156f",
+        "GUID:7ec43a433af605348bd575821f5e811c",
+        "GUID:5d98cd5b48139a340beac14d1ce496aa",
+        "GUID:57b1a2b65c664aa4fb70220eec297849",
+        "GUID:0d8beb7f090555447a6cf5ce9e54dbb4"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

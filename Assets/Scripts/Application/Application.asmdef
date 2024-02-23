@@ -1,0 +1,17 @@
+{
+    "name": "Application",
+    "rootNamespace": "UnityWithBackendWorkshop.Application",
+    "references": [
+        "GUID:7ec43a433af605348bd575821f5e811c",
+        "GUID:0d8beb7f090555447a6cf5ce9e54dbb4"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

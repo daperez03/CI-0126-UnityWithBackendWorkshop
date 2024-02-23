@@ -1,0 +1,17 @@
+{
+    "name": "Presentation",
+    "rootNamespace": "UnityWithBackendWorkshop.Presentation",
+    "references": [
+        "GUID:b165792ab4a813644961e1e55b9d156f",
+        "GUID:7ec43a433af605348bd575821f5e811c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
